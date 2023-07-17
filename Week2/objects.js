@@ -34,5 +34,4 @@ const pet = {
   },
 };
 
-pet.eating();
 pet.drinking();
