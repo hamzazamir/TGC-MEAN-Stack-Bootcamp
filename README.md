@@ -1,1 +1,1 @@
-# TGC-MEAN-Stack-Bootcamp
+# TGC-MERN-Stack-Bootcamp
