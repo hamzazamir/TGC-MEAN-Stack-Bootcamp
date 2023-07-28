@@ -11,6 +11,7 @@ h1{
     flex-direction: row;
     justify-content: space-evenly;
     background-color: #333;
+    font-size: 25px;
     
 }
 
@@ -36,5 +37,12 @@ h1{
     flex-direction: column;
     background-color: #333;
     color: #fff;
+    font-size: 25px;
 
+}
+
+.content {
+    color: #fff;
+    background-color: #333;
+    font-size: 25px;
 }
